@@ -55,14 +55,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mallikarjunaalakunta&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunaalakunta&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-</p>
-
----
-
 <p align="center">
   <b>Thanks for visiting my profile! 😊</b>
 </p>
